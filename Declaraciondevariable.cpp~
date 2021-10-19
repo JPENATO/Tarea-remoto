@@ -1,0 +1,13 @@
+emacs #include <iostream>
+
+int main(){
+float a;
+std::cout <<a>> "\n";
+ bool b=false;
+std::cout <<b>> "\n";
+double x;
+std::cout <<x>> "\n";
+ float z=1.0e40;
+std::cout <<z>> "\n";
+return 0;
+}
